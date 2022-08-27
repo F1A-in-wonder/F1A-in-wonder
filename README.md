@@ -3,9 +3,10 @@
 - 🌱 I’m currently learning C++,Java
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me :github pages
-I am a Minecraft player , developer.
-Welcome to join us.
-MCLT:Minecraft looting training(I can't fabricated it)
+-
+-I am a Minecraft player , developer.
+-Welcome to join us.
+-MCLT:Minecraft looting training(I can't fabricated it)
 
 
 <!---
